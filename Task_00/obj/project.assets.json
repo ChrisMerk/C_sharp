@@ -13,19 +13,21 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ПОльзователь77\\OneDrive\\Рабочий стол\\С_sharp\\Task_00\\Task_00.csproj",
+      "projectUniqueName": "C:\\Users\\ПОльзователь77\\Source\\Repos\\C_sharp\\Task_00\\Task_00.csproj",
       "projectName": "Task_00",
-      "projectPath": "C:\\Users\\ПОльзователь77\\OneDrive\\Рабочий стол\\С_sharp\\Task_00\\Task_00.csproj",
+      "projectPath": "C:\\Users\\ПОльзователь77\\Source\\Repos\\C_sharp\\Task_00\\Task_00.csproj",
       "packagesPath": "C:\\Users\\ПОльзователь77\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ПОльзователь77\\OneDrive\\Рабочий стол\\С_sharp\\Task_00\\obj\\",
+      "outputPath": "C:\\Users\\ПОльзователь77\\Source\\Repos\\C_sharp\\Task_00\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ПОльзователь77\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ПОльзователь77\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
