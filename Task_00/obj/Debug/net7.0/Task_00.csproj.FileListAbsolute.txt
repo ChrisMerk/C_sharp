@@ -1,0 +1,14 @@
+C:\Users\ПОльзователь77\OneDrive\Рабочий стол\С_sharp\Task_00\bin\Debug\net7.0\Task_00.exe
+C:\Users\ПОльзователь77\OneDrive\Рабочий стол\С_sharp\Task_00\bin\Debug\net7.0\Task_00.deps.json
+C:\Users\ПОльзователь77\OneDrive\Рабочий стол\С_sharp\Task_00\bin\Debug\net7.0\Task_00.runtimeconfig.json
+C:\Users\ПОльзователь77\OneDrive\Рабочий стол\С_sharp\Task_00\bin\Debug\net7.0\Task_00.dll
+C:\Users\ПОльзователь77\OneDrive\Рабочий стол\С_sharp\Task_00\bin\Debug\net7.0\Task_00.pdb
+C:\Users\ПОльзователь77\OneDrive\Рабочий стол\С_sharp\Task_00\obj\Debug\net7.0\Task_00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПОльзователь77\OneDrive\Рабочий стол\С_sharp\Task_00\obj\Debug\net7.0\Task_00.AssemblyInfoInputs.cache
+C:\Users\ПОльзователь77\OneDrive\Рабочий стол\С_sharp\Task_00\obj\Debug\net7.0\Task_00.AssemblyInfo.cs
+C:\Users\ПОльзователь77\OneDrive\Рабочий стол\С_sharp\Task_00\obj\Debug\net7.0\Task_00.csproj.CoreCompileInputs.cache
+C:\Users\ПОльзователь77\OneDrive\Рабочий стол\С_sharp\Task_00\obj\Debug\net7.0\Task_00.dll
+C:\Users\ПОльзователь77\OneDrive\Рабочий стол\С_sharp\Task_00\obj\Debug\net7.0\refint\Task_00.dll
+C:\Users\ПОльзователь77\OneDrive\Рабочий стол\С_sharp\Task_00\obj\Debug\net7.0\Task_00.pdb
+C:\Users\ПОльзователь77\OneDrive\Рабочий стол\С_sharp\Task_00\obj\Debug\net7.0\Task_00.genruntimeconfig.cache
+C:\Users\ПОльзователь77\OneDrive\Рабочий стол\С_sharp\Task_00\obj\Debug\net7.0\ref\Task_00.dll
